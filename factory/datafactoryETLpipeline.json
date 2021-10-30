@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryETLpipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0827d194-73fc-4cc2-9f94-64e84f4ffe40",
+		"tenantId": "a0011c68-7f30-4831-8cba-bceb46324bf4"
+	}
+}
